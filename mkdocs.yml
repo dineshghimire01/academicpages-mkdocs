@@ -14,8 +14,8 @@ theme:
   name: material
 
   # 404 page
-  static_templates:
-    - 404.html
+  #static_templates:
+    #- 404.html
 
   # Don't include MkDocs' JavaScript
   include_search_page: false
