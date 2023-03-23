@@ -48,7 +48,7 @@ theme:
 
 # Page tree
 nav:
-  - Den: den.md
+  - Den: index.md
   - Research: research.md
   - Presentations: presentation.md
   - Teaching: teaching.md
