@@ -48,9 +48,9 @@ theme:
 
 # Page tree
 nav:
-  - Home: index.md
-  - Publications: pubs.md
-  - Talks: talks.md
+  - Den: den.md
+  - Research: research.md
+  - Presentations: presentation.md
   - Teaching: teaching.md
   - Portfolio: portfolio.md
   - Blog Posts: blog.md
