@@ -1,8 +1,11 @@
 # Home
-Welcome to home page of Dinesh Ghimire
+Welcome to Dinesh's Den
 
 Personal background
+Namaskar/Greetings Fellow's:
 I was born and raised in Nepal, a country known for Himalaya and birthplace of Buddha.I finished my undergraduate degree in Agriculture science with focus on plant breeding. Currently I am a graduate student at West Virginia State University (WVSU), WV, USA. I am graduating my master's degree this spring from department of biotechnology. My current research focuses on improving vintage tomato varieties using Marker assisted selection and backgroynd selection. I am planning to pursue PhD in the field of plant breeding with focus on quantitative genetics, High throughput phenotyping and computational biology. 
+<img width="133" alt="image" src="https://user-images.githubusercontent.com/114435835/227584166-a8f140dc-a7f4-440c-b8a9-73bbb184c9d6.png">
+
 
 Educational Background:
 tribhuvan University, 2019, Undergraduate
