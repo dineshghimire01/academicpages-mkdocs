@@ -1,16 +1,16 @@
 # Home
 Welcome to Dinesh's Den
 
-Personal background
+**Personal background**
 Namaskar/Greetings Fellow's:
-I was born and raised in Nepal, a country known for Himalaya and birthplace of Buddha.I finished my undergraduate degree in Agriculture science with focus on plant breeding. Currently I am a graduate student at West Virginia State University (WVSU), WV, USA. I am graduating my master's degree this spring from department of biotechnology. My current research focuses on improving vintage tomato varieties using Marker assisted selection and backgroynd selection. I am planning to pursue PhD in the field of plant breeding with focus on quantitative genetics, High throughput phenotyping and computational biology. 
-<img width="133" alt="image" src="https://user-images.githubusercontent.com/114435835/227584166-a8f140dc-a7f4-440c-b8a9-73bbb184c9d6.png">
+I was born and raised in Nepal, a country known for Himalaya and the birthplace of Buddha.I finished my undergraduate degree in Agriculture science with focus on plant breeding. Currently I am a graduate student at West Virginia State University (WVSU), WV, USA. I am graduating my master's degree this spring from department of biotechnology. My current research focuses on improving vintage tomato varieties using Marker assisted selection and backgroynd selection. I am planning to pursue PhD in the field of plant breeding with focus on quantitative genetics, High throughput phenotyping and computational biology. 
+![image](https://user-images.githubusercontent.com/114435835/229265840-4017dc72-f97f-48ee-98da-78a176b8e54b.png)
 
+**Educational Background:**
+Bachelor of Science in Agriculture, Tribhuvan University, Nepal (2015-1019)
+Master of Science in Biotechnology, West Virginia State university (2021-2023)
+Doctoral degree in Plant Breeding and Genetics, Cornell University, (From Fall 2023)
 
-Educational Background:
-tribhuvan University, 2019, Undergraduate
-WVSU, MS
-Cornell University, PhD (Starting Fall of 2023)
 
 ## academicpages is a ready-to-fork GitHub Pages template for academic personal websites
 
