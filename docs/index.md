@@ -1,15 +1,15 @@
 # Home
-Welcome to Dinesh's Den
+Welcome to Dinesh's Profile
 
 **Personal background**
 Namaskar/Greetings Fellow's:
-I was born and raised in Nepal, a country known for Himalaya and the birthplace of Buddha.I finished my undergraduate degree in Agriculture science with focus on plant breeding. Currently I am a graduate student at West Virginia State University (WVSU), WV, USA. I am graduating my master's degree this spring from department of biotechnology. My current research focuses on improving vintage tomato varieties using Marker assisted selection and backgroynd selection. I am planning to pursue PhD in the field of plant breeding with focus on quantitative genetics, High throughput phenotyping and computational biology. 
+I was born and raised in Nepal, a country known for Himalaya and the birthplace of Buddha.I finished my undergraduate degree in Agriculture science with focus on plant breeding. Then, I joined West Virginia State University (WVSU)for my MS in Biotechnology. At WVSU,  I worked on improving vintage tomato varieties using Marker assisted selection and background selection. I also worked on incompatibility issues while crossing heirlooms with the commercial variety. After graduating from WVSU, I joined Cornell University for my doctoral degree. I started from fall of 2023 in the field of plant breeding and genetics. I am working on a research project incorporating quantitative genetics, High throughput phenotyping and computational biology. 
 ![image](https://user-images.githubusercontent.com/114435835/229265840-4017dc72-f97f-48ee-98da-78a176b8e54b.png)
 
 **Educational Background:**
 Bachelor of Science in Agriculture, Tribhuvan University, Nepal (2015-1019)
 Master of Science in Biotechnology, West Virginia State university (2021-2023)
-Doctoral degree in Plant Breeding and Genetics, Cornell University, (From Fall 2023)
+Doctoral degree in Plant Breeding and Genetics, Cornell University, (2023)
 
 
 ## academicpages is a ready-to-fork GitHub Pages template for academic personal websites
