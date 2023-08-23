@@ -7,14 +7,14 @@ I was born and raised in Nepal, a country known for Himalaya and the birthplace 
 ![image](https://user-images.githubusercontent.com/114435835/229265840-4017dc72-f97f-48ee-98da-78a176b8e54b.png)
 
 **Educational Background:**
-* Bachelor of Science in Agriculture, Tribhuvan University, Nepal (2015-1019)
-* Master of Science in Biotechnology, West Virginia State university (2021-2023)
-* Doctoral degree in Plant Breeding and Genetics, Cornell University, (2023)
+* Bachelor of Science in Agriculture, Tribhuvan University, Nepal (2015-1019)  
+* Master of Science in Biotechnology, West Virginia State university (2021-2023)  
+* Doctoral degree in Plant Breeding and Genetics, Cornell University, (2023)  
 
 **Contact**: 
-* Email 📧 : dg663@cornell.edu
-* LinkedIn 📖 : https://www.linkedin.com/in/dinesh-ghimire-6a978a114/
-* GitHub 🐈  : https://github.com/dineshghimire01
+* Email 📧 : dg663@cornell.edu  
+* LinkedIn 📖 : https://www.linkedin.com/in/dinesh-ghimire-6a978a114/  
+* GitHub 🐈  : https://github.com/dineshghimire01  
 
 
 ## academicpages is a ready-to-fork GitHub Pages template for academic personal websites
