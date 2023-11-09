@@ -14,6 +14,8 @@ I was born and raised in Nepal, a country known for Himalaya and the birthplace 
 **Contact**:   
 * Email 📧 : dg663@cornell.edu  
 * LinkedIn 📖 : https://www.linkedin.com/in/dinesh-ghimire-6a978a114/  
-* GitHub 🐈  : https://github.com/dineshghimire01  
+* GitHub 🐈  : https://github.com/dineshghimire01
+* Webpage 🌐 : https://dineshghimire01.github.io/academicpages-mkdocs/
+
 
 
