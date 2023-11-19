@@ -2,7 +2,7 @@
 1. Graduate Research Assistant, Cornell University	August 2023- present
 
   •	Plant Breeding
-
+  
   •	Quantitative genetics
 
   •	Hierarchical   Bayesian   framework
@@ -72,7 +72,7 @@
 
 2. Graduate Research Assistant, WVSU	May 2021- May 2023
    
-•	Heirloom Tomato Improvement project using Marker Assisted Backcrossing and SNP        genotyping.
+•	Heirloom Tomato Improvement project using Marker Assisted Backcrossing and SNP genotyping.
 
 •	Reproductive Barriers issue in breeding tomatoes
 
@@ -88,7 +88,7 @@
 
 4. Agriculture Field Officer, Creation of Innovative Society (CIS), Nepal	Dec. 2019 – June 2020
    
- •	Project entitled Increasing Community Capacity for Climate Adaptation and Fisheries Co-Management (USAID)
+•	Project entitled Increasing Community Capacity for Climate Adaptation and Fisheries Co-Management (USAID)
 
 •	Performance trial of hybrid tomato varieties (Solanum lycopersicum).
 
