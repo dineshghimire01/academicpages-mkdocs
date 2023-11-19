@@ -25,6 +25,7 @@
 •	Reproductive Barriers issue in breeding tomatoes
 
 •	Supervised by Dr. Barbara E. Liedl
+
 ![image](https://github.com/dineshghimire01/academicpages-mkdocs/assets/114435835/d8214c6b-35f8-4260-93e0-752e43e2a3e6)
 
 
@@ -40,6 +41,7 @@
 •	Project entitled Increasing Community Capacity for Climate Adaptation and Fisheries Co-Management (USAID)
 
 •	Performance trial of hybrid tomato varieties (Solanum lycopersicum).
+
 ![image](https://github.com/dineshghimire01/academicpages-mkdocs/assets/114435835/786d229f-a996-4702-96c1-6921ecf38dcb)
 
 
