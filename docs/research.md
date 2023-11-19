@@ -1,8 +1,12 @@
 # WORK EXPERIENCES
 1. Graduate Research Assistant, Cornell University	August 2023- present
+   
 -Plant Breeding
+
 -Quantitative genetics
+
 -Hierarchical   Bayesian   framework
+
 -High Througput Phenotyping
 -Advanced Statistical Models
 -Modeling crop growth and plant-environment interactions
