@@ -14,6 +14,8 @@
   •	Modeling crop growth and plant-environment interactions
 
   •	Supervised by Dr. Kelly R. Robbins
+  
+![Drone image from Liam](https://github.com/dineshghimire01/academicpages-mkdocs/assets/114435835/8dafdf8b-5b30-47ed-b2fe-e8ca347b02f6)
 
 
 2. Graduate Research Assistant, WVSU	May 2021- May 2023
