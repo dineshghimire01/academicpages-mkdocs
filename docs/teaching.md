@@ -1,11 +1,9 @@
 # Teaching
 
-## [Teaching experience 2](teaching/teach02.md)
-*Workshop, University 1, Department, 2015*
+1.**Graduate Teaching Assistant, WVSU    Jan 2021 – May 2021**
+  • Introductory Biology and Cell Biology laboratories
 
-This is a description of a teaching experience. You can use markdown like any other post.
+  • Supervised by Dr. Timothy Ruhnke
 
-## [Teaching experience 1](teaching/teach01.md)
-*Undergraduate course, University 1, Department, 2014*
-
-This is a description of a teaching experience. You can use markdown like any other post.
+2. **Mathematics Crash Courses, Nepal     2015-2019**
+   
