@@ -1,22 +1,27 @@
-# Publications 
+# WORK EXPERIENCES
+1. Graduate Research Assistant, Cornell University	August 2023- present
+Plant Breeding
+Quantitative genetics
+Hierarchical   Bayesian   framework
+High Througput Phenotyping
+Advanced Statistical Models
+Modeling crop growth and plant-environment interactions
+Supervised by Dr. Kelly R. Robbins
 
-## [Paper Title Number 3](pubs/pub3.md)
-:calendar: *Published in Journal 1, 2015*
+3. Graduate Research Assistant, WVSU	May 2021- May 2023
+•	Heirloom Tomato Improvement project using Marker Assisted Backcrossing and SNP genotyping
+Reproductive Barriers issue in breeding tomatoes
+•	Supervised by Dr. Barbara E. Liedl
 
-This paper is about the number 3. The number 4 is left for future work.
+5. Graduate Teaching Assistant, WVSU	Jan 2021 – May 2021
+•	Introductory Biology and Cell Biology laboratories
+•	Supervised by Dr. Timothy Ruhnke
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." Journal 1. 1(3). DOI-3å
 
-## [Paper Title Number 2](pubs/pub2.md)
-:calendar: *Published in Journal 1, 2010*
+6. Agriculture Field Officer, Creation of Innovative Society (CIS), Nepal	Dec. 2019 – June 2020
+•	Project entitled Increasing Community Capacity for Climate Adaptation and Fisheries Co-Management (USAID)
+•	Performance trial of hybrid tomato varieties (Solanum lycopersicum).
 
-This paper is about the number 2. The number 3 is left for future work.
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." Journal 1. 1(2). DOI-2
-
-## [Paper Title Number 1](pubs/pub1.md)
-:calendar: *Published in Journal 1, 2009*
-
-This paper is about the number 1. The number 2 is left for future work.
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." Journal 1. 1(1). DOI-1
+8. Research Assistant, Lumbini Seed Company, Nepal	Feb. 2016 – April 2019
+•	Assisted in nucleus seed production, maintenance breeding, and varietal selection of different crops.
+•	Supervised by Asst. Prof. Ganga Ram Kohar, ICRISAT, India and CIMMYT, Nepal.
