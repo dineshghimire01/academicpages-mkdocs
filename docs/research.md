@@ -1,12 +1,12 @@
 # WORK EXPERIENCES
 1. Graduate Research Assistant, Cornell University	August 2023- present
-Plant Breeding
-Quantitative genetics
-Hierarchical   Bayesian   framework
-High Througput Phenotyping
-Advanced Statistical Models
-Modeling crop growth and plant-environment interactions
-Supervised by Dr. Kelly R. Robbins
+-Plant Breeding
+-Quantitative genetics
+-Hierarchical   Bayesian   framework
+-High Througput Phenotyping
+-Advanced Statistical Models
+-Modeling crop growth and plant-environment interactions
+-Supervised by Dr. Kelly R. Robbins
 
 3. Graduate Research Assistant, WVSU	May 2021- May 2023
 •	Heirloom Tomato Improvement project using Marker Assisted Backcrossing and SNP genotyping
