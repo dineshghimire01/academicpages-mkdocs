@@ -1,1 +1,148 @@
+# General
+site_name: "Dinesh's Home"
+site_description: 'Website for Dinesh Ghimire'
+site_author: 'Dinesh Ghimire'
+site_url: https://dineshghimire.github.io/home/
 
+# Repository
+repo_name: dineshghimire.github.io
+repo_url: https://github.com/dineshghimire01/dineshghimire.github.io/tree/gh-pages
+edit_uri: edit/gh-pages/
+
+# Copyright
+copyright: 'Copyright &copy; 2023 Dinesh Ghimire'
+
+# Configuration
+theme:
+  name: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette: 
+    - scheme: default
+      primary: black
+      accent: orange
+      toggle:
+        icon: material/brightness-3
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: orange 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+  font:
+    text: Montserrat
+    code: Regular
+  favicon: assets/favicon.png
+  icon:
+    logo: material/dna
+    admonition:
+      note: material/map-marker-radius-outline
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.integrate
+
+# Page tree
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Presentations: presentations.md
+  - Teaching: teaching.md
+  # - Research: 
+  #   - Current: current_projects.md
+  #   - Prior: previous_projects.md
+  #   - Grants & Awards: awards.md
+  #   - Publications: publications.md
+  # - Talks: talks.md
+  # - Teaching: 
+  #   - Classes taught: teaching.md
+  #   - Advising & Mentoring: mentoring.md
+  # - Job Announcements: jobs.md
+  # - Public Data Sets: data.md
+  # - Code: code.md
+  # - Curriculum Vitae: cv.md
+
+# Options
+# extra:
+#   social:
+#     - icon: fontawesome/brands/orcid
+#       link: https://orcid.org/0000-0001-7609-1939
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/CosiMichele
+#     - icon: fontawesome/brands/twitter
+#       link: https://twitter.com/cosi_michele
+#     - icon: fontawesome/brands/linkedin
+#       link: https://www.linkedin.com/in/michele-cosi/
+#     - icon: fontawesome/brands/docker
+#       link: https://hub.docker.com/u/cosimichele
+#   analytics:
+#     provider: google
+#     property: G-NYETZFD8DN
+  
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_css:
+  - stylesheets/extra.css
+ 
+plugins:
+  - search
+  - mkdocstrings:
+      custom_templates: templates
+      default_handler: python
+      handlers:
+        python:
+          options:
+            show_source: false
+  - git-revision-date
+  - mkdocs-jupyter:
+        include_source: True
+        ignore_h1_titles: True
