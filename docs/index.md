@@ -1,5 +1,5 @@
 # Home  
-Welcome to Dinesh's Profile
+Welcome to Dinesh's Personal Website
 
 **Personal background**  
 Namaskar/Greetings Fellow's:  
