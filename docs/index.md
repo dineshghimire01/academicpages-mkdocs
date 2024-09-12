@@ -1,4 +1,4 @@
-# Home Page 
+# Home  
 Welcome to Dinesh's Profile
 
 **Personal background**  
