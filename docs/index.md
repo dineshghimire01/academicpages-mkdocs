@@ -1,4 +1,4 @@
-# Home  
+# Home Page 
 Welcome to Dinesh's Profile
 
 **Personal background**  
@@ -8,11 +8,11 @@ I was born and raised in Nepal, a country known for Himalaya and the birthplace 
 ![Lab journey](https://github.com/user-attachments/assets/06adfca9-267e-4b59-b197-822e7c35ad26)
 
 
-**Educational Background:**  
+**Educational Background:** 
+* Doctoral degree in Plant Breeding and Genetics, Cornell University, (2023- Present)
+* Master of Science in Biotechnology, West Virginia State university (2021-2023)   
 * Bachelor of Science in Agriculture, Tribhuvan University, Nepal (2015-1019)  
-* Master of Science in Biotechnology, West Virginia State university (2021-2023)  
-* Doctoral degree in Plant Breeding and Genetics, Cornell University, (2023)  
-
+  
 **Contact**:   
 * Email 📧 : dg663@cornell.edu  
 * LinkedIn 📖 : https://www.linkedin.com/in/dinesh-ghimire-6a978a114/  
